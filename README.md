@@ -30,8 +30,6 @@
 
 ##  About Me
 
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 <div align="center">
 
 |  |  |
@@ -47,8 +45,6 @@
 | **Fun Fact** | I debug faster after chai |
 
 </div>
-
-<br clear="right" />
 
 ---
 
