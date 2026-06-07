@@ -1,3 +1,9 @@
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   CAPSULE RENDER HEADER                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=7F77DD&height=200&section=header&text=Aarav%20Vatsh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%20%26%20ML%20%7C%20MERN%20Full%20Stack%20%7C%20React%20Native&descSize=18&descAlignY=75&descColor=c9c6f5" width="100%" />
+
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -24,6 +30,8 @@
 
 ##  About Me
 
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 <div align="center">
 
 |  |  |
@@ -39,6 +47,8 @@
 | **Fun Fact** | I debug faster after chai |
 
 </div>
+
+<br clear="right" />
 
 ---
 
@@ -77,6 +87,8 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## ⚡ Tech Stack & Skills
+
+<img align="right" alt="Tech" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ###  AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -118,6 +130,8 @@
 ![Expo](https://img.shields.io/badge/Expo-0d1117?style=for-the-badge&logo=expo&logoColor=000020)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+<br clear="right" />
 
 ---
 
