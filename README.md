@@ -148,13 +148,11 @@ me.say_hi()
 > Powered by [WakaTime](https://wakatime.com) — auto-updates every day via GitHub Actions
 
 <!--START_SECTION:waka-->
-```text
- Setup WakaTime to see your live coding stats here!
-   1. Sign up at wakatime.com
-   2. Install the VS Code extension
-   3. Add WAKATIME_API_KEY to repo secrets
-   4. Create .github/workflows/waka.yml (see README setup guide)
+
+```txt
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ---
