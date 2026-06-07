@@ -43,16 +43,16 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS CARDS                        -->
+<!--                   GITHUB SNAPSHOT                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ##  GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AaravVatsh27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=0F6E56&text_color=c9d1d9&ring_color=7F77DD&count_private=true" height="180" alt="Aarav Vatsh's GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaravVatsh27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/AaravVatsh27?tab=repositories)
+[![Latest Activity](https://img.shields.io/badge/Latest_Activity-View_Profile-0d1117?style=for-the-badge&logo=githubactions&logoColor=7F77DD)](https://github.com/AaravVatsh27)
+[![Open Source](https://img.shields.io/badge/Open_Source-Projects-0d1117?style=for-the-badge&logo=opensourceinitiative&logoColor=0F6E56)](https://github.com/AaravVatsh27?tab=repositories)
 
 </div>
 
@@ -67,20 +67,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=AaravVatsh27&theme=tokyonight&hide_border=true&background=0d1117&ring=7F77DD&fire=BA7517&currStreakLabel=7F77DD&sideLabels=c9d1d9&sideNums=7F77DD&currStreakNum=BA7517&dates=8b949e" alt="GitHub Streak" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB TROPHIES                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-##  GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AaravVatsh27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -195,17 +181,14 @@ No activity tracked
 
 > ⚡ Auto-updated daily via GitHub Actions — always shows my 2 most recent repos
 
-<div align="center">
-
 <!--START_SECTION:recent-repos-->
-<a href="https://github.com/AaravVatsh27/pragati-setu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AaravVatsh27&repo=pragati-setu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=0F6E56&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/AaravVatsh27/dbms-mini">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AaravVatsh27&repo=dbms-mini&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=0F6E56&text_color=c9d1d9" />
-</a>
+| Repository | Description | Updated |
+|---|---|---|
+| [pragati-setu](https://github.com/AaravVatsh27/pragati-setu) | Decision intelligence platform for safer global travel — generating verified travel “Decision Passports” for Indian travelers. | Jun 7, 2026 |
+| [dbms-mini](https://github.com/AaravVatsh27/dbms-mini) | DBMS mini project: Uber clone with React Native, Node.js, and MySQL | May 28, 2026 |
 <!--END_SECTION:recent-repos-->
+
+<div align="center">
 
 <a href="https://github.com/AaravVatsh27?tab=repositories&sort=updated">
   <img src="https://img.shields.io/badge/View_All_Repos-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />

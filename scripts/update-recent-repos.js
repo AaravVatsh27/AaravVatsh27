@@ -34,7 +34,23 @@ async function fetchRepos() {
   return response.json();
 }
 
-function renderRepoCards(repos) {
+function escapeMarkdown(value) {
+  return String(value || "")
+    .replace(/\r?\n/g, " ")
+    .replace(/\|/g, "\\|")
+    .trim();
+}
+
+function formatDate(value) {
+  return new Intl.DateTimeFormat("en", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+    timeZone: "UTC",
+  }).format(new Date(value));
+}
+
+function renderRepoTable(repos) {
   const selected = repos
     .filter((repo) => !repo.fork && !repo.archived)
     .filter((repo) => repo.name.toLowerCase() !== CURRENT_REPO)
@@ -44,21 +60,19 @@ function renderRepoCards(repos) {
     return "<!-- No public repositories found yet. -->";
   }
 
-  return selected
-    .map((repo) => {
-      const encodedName = encodeURIComponent(repo.name);
-      return `<a href="${repo.html_url}">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=${USERNAME}&repo=${encodedName}&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=0F6E56&text_color=c9d1d9" />
-</a>`;
-    })
-    .join("\n&nbsp;\n");
+  const rows = selected.map((repo) => {
+    const description = escapeMarkdown(repo.description) || "No description yet";
+    return `| [${escapeMarkdown(repo.name)}](${repo.html_url}) | ${description} | ${formatDate(repo.updated_at)} |`;
+  });
+
+  return ["| Repository | Description | Updated |", "|---|---|---|", ...rows].join("\n");
 }
 
 async function main() {
   const readme = await fs.readFile(README_PATH, "utf8");
   const repos = await fetchRepos();
-  const cards = renderRepoCards(repos);
-  const replacement = `${START_MARKER}\n${cards}\n${END_MARKER}`;
+  const table = renderRepoTable(repos);
+  const replacement = `${START_MARKER}\n${table}\n${END_MARKER}`;
   const pattern = new RegExp(`${START_MARKER}[\\s\\S]*?${END_MARKER}`);
 
   if (!pattern.test(readme)) {
