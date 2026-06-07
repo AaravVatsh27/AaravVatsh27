@@ -204,7 +204,13 @@ me.say_hi()
 <div align="center">
 
 <!--START_SECTION:recent-repos-->
-<!-- This section is auto-updated by GitHub Actions. Do not edit manually. -->
+<a href="https://github.com/AaravVatsh27/pragati-setu">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AaravVatsh27&repo=pragati-setu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=0F6E56&text_color=c9d1d9" />
+</a>
+&nbsp;
+<a href="https://github.com/AaravVatsh27/dbms-mini">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AaravVatsh27&repo=dbms-mini&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7F77DD&icon_color=0F6E56&text_color=c9d1d9" />
+</a>
 <!--END_SECTION:recent-repos-->
 
 <a href="https://github.com/AaravVatsh27?tab=repositories&sort=updated">
