@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Aarav Vatsh</title>
+  <desc id="desc">AI and ML, MERN Full Stack, React Native</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="45%" stop-color="#17142c"/>
+      <stop offset="100%" stop-color="#0f2d28"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7F77DD"/>
+      <stop offset="100%" stop-color="#0F6E56"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="220" rx="22" fill="url(#bg)"/>
+  <path d="M0 168 C165 105 265 236 430 166 C585 100 694 122 820 155 C964 193 1058 119 1200 83 L1200 220 L0 220 Z" fill="#7F77DD" opacity="0.18"/>
+  <path d="M0 188 C188 128 292 230 462 178 C632 126 762 134 904 168 C1028 198 1106 149 1200 118 L1200 220 L0 220 Z" fill="#0F6E56" opacity="0.24"/>
+  <circle cx="105" cy="62" r="34" fill="#7F77DD" opacity="0.22" filter="url(#glow)"/>
+  <circle cx="1092" cy="54" r="42" fill="#0F6E56" opacity="0.24" filter="url(#glow)"/>
+  <rect x="84" y="56" width="1032" height="108" rx="18" fill="#0d1117" opacity="0.34" stroke="url(#accent)" stroke-opacity="0.35"/>
+  <text x="600" y="104" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" text-anchor="middle">Aarav Vatsh</text>
+  <text x="600" y="142" fill="#c9c6f5" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="500" text-anchor="middle">AI &amp; ML | MERN Full Stack | React Native</text>
+</svg>

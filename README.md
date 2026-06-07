@@ -2,7 +2,7 @@
 <!--                   CAPSULE RENDER HEADER                     -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=7F77DD&height=200&section=header&text=Aarav%20Vatsh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=AI%20%26%20ML%20%7C%20MERN%20Full%20Stack%20%7C%20React%20Native&descSize=18&descAlignY=75&descColor=c9c6f5" width="100%" />
+<img src="./assets/profile-header.svg" width="100%" alt="Aarav Vatsh - AI and ML, MERN Full Stack, React Native" />
 
 <div align="center">
 
