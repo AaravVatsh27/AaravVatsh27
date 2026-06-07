@@ -24,25 +24,21 @@
 
 ##  About Me
 
-```python
-class AaravVatsh:
-    def __init__(self):
-        self.name        = "Aarav Vatsh"
-        self.college     = "BMSIT&M, Bengaluru"
-        self.degree      = "B.E. — Artificial Intelligence & Machine Learning"
-        self.semester    = "4th Semester | VTU 2022 Scheme | Section 6"
-        self.interests   = ["Machine Learning", "React Native", "Building Startups"]
-        self.currently   = "Building a near-peer mentoring platform for Indian students"
-        self.stack       = ["Python", "JavaScript", "React", "Node.js", "Express.js", "MongoDB", "React Native", "FastAPI"]
-        self.ask_me_about = ["AI/ML", "Mobile Apps", "DeFi & Web3", "Startups"]
-        self.fun_fact    = "I debug faster after chai ☕"
+<div align="center">
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something great together ")
+|  |  |
+|---|---|
+| **Name** | Aarav Vatsh |
+| **College** | BMSIT&M, Bengaluru |
+| **Degree** | B.E. — Artificial Intelligence & Machine Learning |
+| **Semester** | 4th Semester · VTU 2022 Scheme · Section 6 |
+| **Currently Building** | A near-peer mentoring platform for Indian students |
+| **Interests** | Machine Learning · React Native · Startups |
+| **Core Stack** | Python · JavaScript · React · Node.js · Express.js · MongoDB · React Native · FastAPI |
+| **Ask Me About** | AI/ML · Mobile Apps · DeFi & Web3 · Startups |
+| **Fun Fact** | I debug faster after chai |
 
-me = AaravVatsh()
-me.say_hi()
-```
+</div>
 
 ---
 
