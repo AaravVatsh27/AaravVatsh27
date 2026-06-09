@@ -194,7 +194,7 @@ No activity tracked
 <!--START_SECTION:recent-repos-->
 | Repository | Description | Updated |
 |---|---|---|
-| [pragati-setu](https://github.com/AaravVatsh27/pragati-setu) | Decision intelligence platform for safer global travel — generating verified travel “Decision Passports” for Indian travelers. | Jun 7, 2026 |
+| [pragati-setu](https://github.com/AaravVatsh27/pragati-setu) | Decision intelligence platform for safer global travel — generating verified travel “Decision Passports” for Indian travelers. | Jun 8, 2026 |
 | [dbms-mini](https://github.com/AaravVatsh27/dbms-mini) | DBMS mini project: Uber clone with React Native, Node.js, and MySQL | May 28, 2026 |
 <!--END_SECTION:recent-repos-->
 
