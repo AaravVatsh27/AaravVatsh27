@@ -194,8 +194,8 @@ No activity tracked
 <!--START_SECTION:recent-repos-->
 | Repository | Description | Updated |
 |---|---|---|
+| [MarketLens](https://github.com/AaravVatsh27/MarketLens) | No description yet | Jul 29, 2026 |
 | [pragati-setu](https://github.com/AaravVatsh27/pragati-setu) | Decision intelligence platform for safer global travel — generating verified travel “Decision Passports” for Indian travelers. | Jun 13, 2026 |
-| [dbms-mini](https://github.com/AaravVatsh27/dbms-mini) | DBMS mini project: Uber clone with React Native, Node.js, and MySQL | May 28, 2026 |
 <!--END_SECTION:recent-repos-->
 
 <div align="center">
