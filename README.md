@@ -194,8 +194,8 @@ No activity tracked
 <!--START_SECTION:recent-repos-->
 | Repository | Description | Updated |
 |---|---|---|
-| [adityahack01](https://github.com/AaravVatsh27/adityahack01) | No description yet | Oct 20, 2026 |
-| [GuideMe](https://github.com/AaravVatsh27/GuideMe) | No description yet | Oct 19, 2026 |
+| [The-Future-Ready-Human-Centric-Workplace-Ecosystem](https://github.com/AaravVatsh27/The-Future-Ready-Human-Centric-Workplace-Ecosystem) | No description yet | Oct 21, 2026 |
+| [adityahack01](https://github.com/AaravVatsh27/adityahack01) | No description yet | Oct 21, 2026 |
 <!--END_SECTION:recent-repos-->
 
 <div align="center">
